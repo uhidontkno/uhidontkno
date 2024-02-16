@@ -1,7 +1,7 @@
 
 <p align="center">
   <center>
-<h3 align="center">Hi there 👋</h3>
+<h1 align="center">Hi there 👋</h2>
     <p align="center">
 I'm rare! I'm a full-stack developer, designer, and an chronically online user, but I primarily work in frontend.<br><br>
       <a href="https://discord.com/users/1129545353717366884"><img src="https://cdn.simpleicons.org/discord" height="32"></a>&nbsp;&nbsp;
