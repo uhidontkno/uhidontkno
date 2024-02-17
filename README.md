@@ -3,7 +3,7 @@
   <center>
 <h1 align="center">Hi there 👋</h2>
     <p align="center">
-I'm rare! I'm a full-stack developer, designer, and an chronically online user, but I primarily work in frontend.<br><br>
+I'm rare! I'm a (proper) full-stack developer, designer, and an chronically online user, but I primarily work in frontend.<br><br>
       <a href="https://discord.com/users/1129545353717366884"><img src="https://cdn.simpleicons.org/discord" height="32"></a>&nbsp;&nbsp;
       <a href="https://github.com/uhidontkno"><img src="https://cdn.simpleicons.org/github/white/white" height="32"></a>&nbsp;&nbsp;
       <a href="https://twitter.com/rare1k1"><img src="https://cdn.simpleicons.org/x/white/white" height="32"></a>&nbsp;&nbsp;
