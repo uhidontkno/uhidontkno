@@ -10,8 +10,7 @@ I'm rare! I'm a (proper) full-stack developer, designer, and an chronically onli
       <a href="https://t.me/rare1k"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>&nbsp;&nbsp;
       <a href="mailto:hi@rare1k.dev"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>&nbsp;&nbsp;
       <a href="https://steamcommunity.com/profiles/76561199096653872"><img height="32" width="32" src="https://cdn.simpleicons.org/steam/white/white" /></a>&nbsp;&nbsp;
-      <a href="https://rare1k.dev"><img height="32" width="32" src="https://raw.githubusercontent.com/uhidontkno/uhidontkno/main/website.svg" /></a>&nbsp;&nbsp;
-      
+      <a href="https://rare1k.dev"><img height="32" width="32" src="https://raw.githubusercontent.com/uhidontkno/uhidontkno/main/website.svg" /></a>&nbsp;&nbsp;  
       </p>
   </center>
 </p>
