@@ -38,6 +38,10 @@ I'm rare! I'm a (proper) full-stack developer, designer, and an chronically onli
    - **LTC**: `LTaj6GCGJXQMtVcX1XtTeDWN4Yt2oaZTQ6` (Preferred)
    - **XMR**: `49LFZRV4mdFgL5S8Tgr94g96L5dwE7Lx9b9ouetbFxwNKLpuL8y7CbBHMJjVv9KefLVh8uejfiNZiZFEVATqREDKAufEnqL`
 
+------
+
+<img style="filter:invert(1)" src="https://myreadme.vercel.app/api/embed/uhidontkno?panels=userstatistics,toplanguages,toprepositories,commitgraph"></img>
+
 <!--
 **uhidontkno/uhidontkno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,4 +56,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
