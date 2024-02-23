@@ -16,7 +16,7 @@ I'm rare! I'm a (proper) full-stack developer, designer, and an chronically onli
 </p>
 
 - 💻: **I know:** <br>
-<img src="https://skillicons.dev/icons?i=,html,css,javascript,typescript,nodejs,python,cs,tailwind,,cloudflare,discord&perline=9">
+<img src="https://skillicons.dev/icons?i=,html,css,javascript,typescript,nodejs,python,cs,tailwind,,cloudflare,&perline=9">
 
 - 🌱: **I’m currently learning**: <br>
 <img src="https://skillicons.dev/icons?i=,docker,git,linux,bun,figma&perline=8">
