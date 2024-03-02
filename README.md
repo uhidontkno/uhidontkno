@@ -41,7 +41,7 @@ I also know how to bash someone to the point of account deletion: https://github
 
 ------
 
-<img style="filter:invert(1)" src="https://myreadme.vercel.app/api/embed/uhidontkno?panels=userstatistics,toplanguages,toprepositories,commitgraph"></img>
+<img style="filter:invert(1)" src="https://myreadme.vercel.app/api/embed/uhidontkno?panels=userstatistics,toplanguages,commitgraph"></img>
 
 <!--
 **uhidontkno/uhidontkno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
