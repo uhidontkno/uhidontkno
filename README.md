@@ -23,7 +23,7 @@ I also know how to bash someone to the point of account deletion: https://github
 <img src="https://skillicons.dev/icons?i=,figma,bash,svelte&perline=8">
 
 - 🔭: **I’m currently working on** _(subject to change)_:
-  - [Deblok](https://deblok.me) <sup>([github](https://github.com/Deblok-Workshop), [discord](https://discord.gg/deblok))</sup> -- Deblok extends past just your average "web proxy", Deblok allows you to stream your favorite apps and games completely for free.
+  - [Deblok](https://deblok.me) <sup>([github](https://github.com/Deblok-Workshop), [discord](https://discord.gg/surfskip))</sup> -- Deblok extends past just your average "web proxy", Deblok allows you to stream your favorite apps and games completely for free.
   - [Webwin](https://github.com/Deblok-Workshop/Webwin) <sup>([deployment](https://webwin.pages.dev))</sup> -- A **complete** port of Windows over to the web browser. Uses Tailwind and is specifically tailored FOR developers. This is still in development.
   - [Deludo](https://github.com/Deblok-Workshop/) -- The **BIGGEST** unblocked game site. 
   
