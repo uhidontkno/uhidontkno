@@ -1,4 +1,3 @@
-> If some proxy links redirect here, that means the owner is literally asking for filters to block the sites. Add me on Discord if your links redirect here.
 <p align="center">
   <center>
 <h1 align="center">Hi there 👋</h2>
