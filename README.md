@@ -15,7 +15,7 @@ I'm rare! I'm a (proper) full-stack developer, designer, and an chronically onli
 </p>
 
 - 💻: **I know:** <br>
-<img src="https://skillicons.dev/icons?i=,html,css,javascript,typescript,nodejs,python,cs,tailwind,,cloudflare,linux,docker,git,bun,bash&perline=9">
+<img src="https://skillicons.dev/icons?i=,html,css,javascript,typescript,nodejs,python,cs,tailwind,,cloudflare,linux,docker,git,bun,bash,svelte&perline=9">
 I also know how to bash someone to the point of account deletion: https://github.com/InterstellarNetwork/Interstellar/issues/487#issuecomment-1970200004
 
 - 🌱: **I’m currently learning**: <br>
