@@ -15,11 +15,11 @@ I'm rare! I'm a (proper) full-stack developer, designer, and an chronically onli
 </p>
 
 - 💻: **I know:** <br>
-<img src="https://skillicons.dev/icons?i=,html,css,javascript,typescript,nodejs,python,cs,tailwind,,cloudflare,linux,docker,git,bun&perline=9">
+<img src="https://skillicons.dev/icons?i=,html,css,javascript,typescript,nodejs,python,cs,tailwind,,cloudflare,linux,docker,git,bun,rust,bash&perline=9">
 I also know how to bash someone to the point of account deletion: https://github.com/InterstellarNetwork/Interstellar/issues/487#issuecomment-1970200004
 
 - 🌱: **I’m currently learning**: <br>
-<img src="https://skillicons.dev/icons?i=,figma,bash,svelte&perline=8">
+<img src="https://skillicons.dev/icons?i=,rust&perline=8">
 
 - 🔭: **I’m currently working on** _(subject to change)_:
   - [Deblok](https://deblok.me) <sup>([github](https://github.com/Deblok-Workshop), [discord](https://discord.gg/surfskip))</sup> -- Deblok extends past just your average "web proxy", Deblok allows you to stream your favorite apps and games completely for free.
