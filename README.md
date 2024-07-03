@@ -42,7 +42,7 @@ I also know how to bash someone to the point of account deletion: https://github
 ------
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uhidontkno&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhidontkno&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhidontkno&exclude_repo=Deludo-Assets,Deludo&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=uhidontkno&theme=transparent&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 <!--
 **uhidontkno/uhidontkno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
