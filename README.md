@@ -38,6 +38,8 @@ I also know how to bash someone to the point of account deletion: https://github
    - **DOGE**: `DTpTrzDSDjswGhFcGm3Eaq832grWDpAAZD`
    - **LTC**: `LTaj6GCGJXQMtVcX1XtTeDWN4Yt2oaZTQ6` (Preferred)
    - **XMR**: `49LFZRV4mdFgL5S8Tgr94g96L5dwE7Lx9b9ouetbFxwNKLpuL8y7CbBHMJjVv9KefLVh8uejfiNZiZFEVATqREDKAufEnqL`
+* GitHub Sponsors (Stripe):
+  - Use the Sponsor button on my profile or go to https://github.com/sponsors/uhidontkno
 
 ------
 
